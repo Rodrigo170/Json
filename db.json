@@ -29,6 +29,7 @@
     "usoCFDI": "GO3",
     "metodoPago": "PPD",
     "formaPago": "99",
+    "motivo": "",
     "partidas": [
       {
         "numPartida": 1,
@@ -101,6 +102,7 @@
     "usoCFDI": "GO3",
     "metodoPago": "PPD",
     "formaPago": "99",
+    "motivo": "",
     "partidas": [
       {
         "numPartida": 1,
@@ -193,6 +195,7 @@
     "usoCFDI": "GO3",
     "metodoPago": "PPD",
     "formaPago": "99",
+    "motivo": "",
     "partidas": [
       {
         "numPartida": 1,
@@ -245,6 +248,7 @@
     "usoCFDI": "GO3",
     "metodoPago": "PPD",
     "formaPago": "99",
+    "motivo": "",
     "partidas": [
       {
         "numPartida": 1,
@@ -297,6 +301,7 @@
     "usoCFDI": "GO3",
     "metodoPago": "PPD",
     "formaPago": "99",
+    "motivo": "",
     "partidas": [
       {
         "numPartida": 1,
