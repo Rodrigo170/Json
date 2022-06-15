@@ -76,7 +76,7 @@
   {
     "id": 2002,
     "numRequisicion": 1002,
-    "centro": " ",
+    "centro": "B",
     "tipoRequisicion": "Tipo Requisición 2",
     "estatus": "Pendiente",
     "monto": 6000,
@@ -143,26 +143,6 @@
         "ieps": 0,
         "isr": 0,
         "total": 2000
-      },
-       {
-        "numPartida": 3,
-        "material_servicio": "2124 / MANTENIEMIENTO DE TRANSPORTES DE CARGA",
-        "descripcion": "Orden. 1111. REPARACIÓN DE FUGA DE ACEITE. PÉREZ HURTADO CESAR: 205896",
-        "unidadMedida": "UM",
-        "tipoCambio": "Tipo 2",
-        "metCalImp": "Ejemplo",
-        "retenciones": "Retención 2",
-        "traslados": "traslado 2",
-        "costoUnitario": 3000,
-        "moneda": "PESOS",
-        "descuento": 0,
-        "subTotal": 0,
-        "iva": 0.16,
-        "ivaRetenido": 0.05,
-        "impEspeial": 0,
-        "ieps": 0,
-        "isr": 0,
-        "total": 3000
       }
     ]
   },
