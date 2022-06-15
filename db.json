@@ -76,7 +76,7 @@
   {
     "id": 2002,
     "numRequisicion": 1002,
-    "centro": "B",
+    "centro": "G",
     "tipoRequisicion": "Tipo Requisición 2",
     "estatus": "Pendiente",
     "monto": 6000,
@@ -102,7 +102,7 @@
     "usoCFDI": "GO3",
     "metodoPago": "PPD",
     "formaPago": "99",
-    "motivo": "",
+    "motivo": "-",
     "partidas": [
       {
         "numPartida": 1,
